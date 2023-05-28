@@ -1,3 +1,7 @@
 # Blog_Design
 
-this a simple desing for  a blog using HTML and css 
+this a simple Design for  a blog using HTML and css 
+
+screenshot of the design
+
+![Screenshot](Capture.PNG)  
